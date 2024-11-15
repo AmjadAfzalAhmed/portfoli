@@ -1,0 +1,22 @@
+[
+    {
+        "Name":"Amjad Afzal Ahmed",
+        "F/Name":"Allah Warayo",
+        "Age":"45 Years"
+    },
+    {
+        "Name":"Furqan Haider",
+        "F/Name":"Amjad Afzal Ahmed",
+        "Age":"15 Years"        
+    },
+    {
+        "Name":"Umme Farwa",
+        "F/Name":"Amjad Afzal Ahmed",
+        "Age":"11 Years"        
+    },
+    {
+        "Name":"Hayyan Haider",
+        "F/Name":"Amjad Afzal Ahmed",
+        "Age":"8 Years"        
+    }
+]
