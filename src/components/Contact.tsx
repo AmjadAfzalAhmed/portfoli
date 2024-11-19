@@ -12,7 +12,7 @@ const Contact = () => {
   return (
     <div>
       <section className="contact min-h-[90vh] w-[100vw] border-y-2 flex justify-center py-8">
-        <div className="container max-w-[800px] w-[90%] bg-sky-100 sm:w-[80%] md:w-[70%] lg:w-[60%] bg-transparent rounded-2xl shadow-lg">
+        <div className="container max-w-[800px] w-[90%] bg-sky-100 sm:w-[80%] md:w-[70%] lg:w-[60%] bg-transparent rounded-2xl shadow-black shadow-lg">
           <div className="head">
             <h2 className="heading text-3xl flex justify-center items-center gap-2 font-semibold">
               <FontAwesomeIcon icon={faHeadset} className="w-6" />

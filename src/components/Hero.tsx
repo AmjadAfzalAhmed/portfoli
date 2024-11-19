@@ -27,7 +27,7 @@ const Hero = () => {
             Full Stack Developer <span className="typing-text"></span>
           </p>
           <a className="btn flex justify-center items-center bg-[#2506ad] mt-4 py-2 rounded-full shadow-lg transition duration-500 ease-in text-white text-center text-base sm:text-lg cursor-pointer hover:bg-[#1a047e] w-36">
-  <span className="font-bold">About Me</span>
+  <span className="font-bold">Hire Me</span>
   <FontAwesomeIcon
     icon={faArrowCircleDown}
     className="w-4 h-4 ml-2 transition ease-in duration-300 hover:translate-x-1"

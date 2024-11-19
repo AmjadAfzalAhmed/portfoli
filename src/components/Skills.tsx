@@ -9,8 +9,8 @@ import ps from '/public/pshop.png';
 
 const Skills = () => {
   return (    
-    <div className="bg-white w-full min-h-[90vh] px-4 md:px-8 lg:px-16 py-12">    
-      <h1 className="text-3xl md:text-4xl font-extrabold text-blue-500 text-center bg-transparent mb-8 hover:scale-105 transition-transform duration-300">Skills Section</h1> 
+    <div className="bg-white w-full min-h-[90vh] px-4 md:px-8 lg:px-16 py-12 border-b-2 border-yellow-200 ">    
+      <h1 className="text-3xl md:text-4xl font-extrabold text-blue-500 text-center bg-transparent mb-8 hover:scale-105 transition-transform duration-300">Skills I Have</h1> 
       
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-10 mx-auto text-lg text-blue-600">
         
